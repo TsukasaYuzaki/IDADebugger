@@ -1,6 +1,8 @@
 # IDADebugger
 </br>
 
+-view stack+register: .frame /r
+
 -To see a list of code modules that are loaded in the Notepad process, enter this command: ```lm```
 
 -To see a stack trace, enter this command: ```k```
